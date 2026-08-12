@@ -1,0 +1,547 @@
+﻿{
+    "PackageName":  "AKK_Master_Baseline_v3.1_RELEASE",
+    "ApprovalStatus":  "HUMAN_GOVERNANCE_PASSED",
+    "TotalFiles":  108,
+    "Files":  [
+                  {
+                      "RelativePath":  "AKK_Interior_Visual_Development_Master_v3.1_WORKING.md",
+                      "SizeBytes":  14679,
+                      "SHA256":  "FDFCD62A4AEA57679DF4D8E06600299E210EBFE2BEB95091C81678D4A1E6A043"
+                  },
+                  {
+                      "RelativePath":  "README.md",
+                      "SizeBytes":  1884,
+                      "SHA256":  "18BD25E74DA3416BAEA9CB0221450C8C28A5B6C4EDE06936B3C4C2B121BFB028"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\AKK_ASSET_REGISTER.csv",
+                      "SizeBytes":  130,
+                      "SHA256":  "6C796683315897A93BC9311568FF81E58DAD8DED9E4ADADE91AACFC0E9475B76"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\AKK_PHASE_MAP.csv",
+                      "SizeBytes":  2005,
+                      "SHA256":  "CAB8EDDFAD8AB1F4B5C9C4077DE11680370AB8E54BD7FC476ABC9B4996F5E76F"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\AKK_RETIRED_DATA_REGISTRY.csv",
+                      "SizeBytes":  223,
+                      "SHA256":  "44D6BAD2E96D065571CE0975F59D46A11463042BB07B13688A884F4AF4D28592"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\AKK_SOURCE_REGISTER.csv",
+                      "SizeBytes":  402,
+                      "SHA256":  "88F0C11C2B0165C8801D4CE508FC348ADAE3AF62595A5EEA7600AD7DC0EE02A7"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\Asset_Index.md",
+                      "SizeBytes":  3030,
+                      "SHA256":  "DE0B0B95F19049698406BB0BA52838E7C4394D3BA0AD8EA676FDB9499E39A8E2"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\CHANGELOG_v3.1_RC.md",
+                      "SizeBytes":  1600,
+                      "SHA256":  "07AC0AACDEF53D032E2C843DF40F546F74A1C776FF7CED88C6C19D48394F8D69"
+                  },
+                  {
+                      "RelativePath":  "00_Project_Control\\README.md",
+                      "SizeBytes":  1700,
+                      "SHA256":  "4A5E68FA1C195BF52E47F05D58F58C083A789C7D938D1731954F11F60B9B52AA"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\AKK_Master_Baseline_v3.0.md",
+                      "SizeBytes":  9681,
+                      "SHA256":  "03579C47762346932DBEB8033DA8167A04943A34AF29CADB1D220915F2DFF73A"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\AKK_MASTER_SOURCE_OF_TRUTH_v3.0.md",
+                      "SizeBytes":  7241,
+                      "SHA256":  "2F079DF414201BA802BD575EBF31639F19D7E3A375A5D4C7EF5208659EECC67E"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_First_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  93942,
+                      "SHA256":  "2751A43AF3A07750679BAC5B0697194F12507EDABA9EE5BF1CE04C3AE06DF92B"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Ground_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  93769,
+                      "SHA256":  "C8E4EBC3E97C39108D0E50F54087CEE06B56EDB0DD6051033C1723B1DEBA3386"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Roof_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  91643,
+                      "SHA256":  "E7386014EA9E3518096CDBDBA9286251D8C5595CECF88E9843A5694929A5D514"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Second_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  165772,
+                      "SHA256":  "5CD342D28A3C3D2F28D6565B457262D857A28985271DE95AD284C91A8D4D1304"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_First_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  170457,
+                      "SHA256":  "88CC9D40F5E49BDD6415A61A25AF13B7208C419EC09E205053D7470047C2A15D"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Ground_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  249819,
+                      "SHA256":  "97C64D1E044E4EEE09BEC6C247E6747732225C8FE5CA1C5A373BD1926866B54D"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Roof_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  200679,
+                      "SHA256":  "0C0368117CE00AD792F5F79C27A5B440223788FE43EA775E10E5AE51E3292A0A"
+                  },
+                  {
+                      "RelativePath":  "01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Second_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  258624,
+                      "SHA256":  "B0B5402A15546A926E101A5DFBFCCD3B4158DE6B551E103828318CAC1266DCAD"
+                  },
+                  {
+                      "RelativePath":  "02_Client_Proposal\\AKK_Client_Proposal_v3.0_Master.md",
+                      "SizeBytes":  3856,
+                      "SHA256":  "62BAF7DA10338603F4342678A38A67BCF31D5687A9BB596DA7735AC505129021"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\AKK_Interior_Visual_Development_Master_v3.0_LOCKED.md",
+                      "SizeBytes":  9150,
+                      "SHA256":  "FA0E1B381B79D2ED8839644BF1DEFB016D26062142764163D9CD7950641BC566"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\AKK_Interior_Visual_Development_Master_v3.1_WORKING.md",
+                      "SizeBytes":  14954,
+                      "SHA256":  "6D0B5F9E28895739FCA8F35CDAC57A3B001F29141219C3CB8BC6DF4EBCBF827B"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\01_CAD_Visual_Reference_v3.0.md",
+                      "SizeBytes":  1702,
+                      "SHA256":  "ABEB91AB4494395F8EBED3A21A26260DE7B5A8D75577F4EBF39D4088C289DA8B"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\01_CAD_Visual_Reference_v3.1.md",
+                      "SizeBytes":  1717,
+                      "SHA256":  "6A8CB1C377DFFDA4CC465FF9B51AE30A793490D275783963E2671CCCB39B4EA0"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\02_MEP_Visual_Coordination_v3.0.md",
+                      "SizeBytes":  1422,
+                      "SHA256":  "F9A19304E93F63E2168BD444D9AAD5724F69DF2604A8470B0CBA8D753E431F9B"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\02_MEP_Visual_Coordination_v3.1.md",
+                      "SizeBytes":  1700,
+                      "SHA256":  "DC7D2169807DD31517C7B8FF6400BA7FD65B0606D22C44F1E02FE0AC3B07A809"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\03_Pod_Room_Layout_v3.0.md",
+                      "SizeBytes":  1294,
+                      "SHA256":  "45049403613EA5D5114A7F284B43EB4FA6DD1CE6A4B9169F062A70C2B34352F9"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\03_Pod_Room_Layout_v3.1.md",
+                      "SizeBytes":  1580,
+                      "SHA256":  "1689B84B138410D330BE676C18ED22BA110345F4E235DA0574A05A8CFA1E6360"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\04_FF\u0026E_Reference_v3.0.md",
+                      "SizeBytes":  1199,
+                      "SHA256":  "D14EA5B757DA615E0B72D6F48A69C110BFFA10F85275DD248F9988F5AFE33139"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\04_FF\u0026E_Reference_v3.1.md",
+                      "SizeBytes":  2927,
+                      "SHA256":  "FE7D38D978551FDABCCEEEAB74B6E669517BA4C9EA8706BC12C437D163400576"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\05_Material_Palette_v3.0.md",
+                      "SizeBytes":  1100,
+                      "SHA256":  "217C25ECD1A9E1155D6C2E002308F621C4F83C8AE0B51FB09FCC3FC719932136"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\05_Material_Palette_v3.1.md",
+                      "SizeBytes":  2690,
+                      "SHA256":  "A699359E36240078E09F3A03B0D97FBC25406859DE48B1A617E1E4F46A4835D9"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\06_Lighting_Visual_Strategy_v3.0.md",
+                      "SizeBytes":  1098,
+                      "SHA256":  "5078F20F011AC4CD9057085785E7A4562EEBBED17715679DC05619034F77CA8C"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\06_Lighting_Visual_Strategy_v3.1.md",
+                      "SizeBytes":  1487,
+                      "SHA256":  "EC11F1B6DBBEB2A40BFEB9080C05B8D01D12D93BA4740016AE495A47C5F0E66A"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\07_Color_System_v3.0.md",
+                      "SizeBytes":  939,
+                      "SHA256":  "B3793E0B9526AA558D891539142D7340EDE76BA66A869B24A7FA245D0AE2F9E0"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\07_Color_System_v3.1.md",
+                      "SizeBytes":  1358,
+                      "SHA256":  "C6AFCBC4C725A42C32F6F126BA8F77BE263F05A75CFE79791D905B4A76340FA7"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\08_Wayfinding_System_v3.0.md",
+                      "SizeBytes":  1107,
+                      "SHA256":  "20D97D8536C53C9A38805168FF297C211380D878BDC6E7D9D520E973BE863C9F"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\08_Wayfinding_System_v3.1.md",
+                      "SizeBytes":  1390,
+                      "SHA256":  "B65D6396758FFBD12AC59A023FFC3ACD2F2322CC747F8DE8C7D107CB4C7D6B31"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\09_Pod_Room_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1091,
+                      "SHA256":  "63B4D8811623774B8AC4BEF321FD9096AEF3BB2B81AD5B81C0BC6F793A9FDB57"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\09_Pod_Room_Visual_Standard_v3.1.md",
+                      "SizeBytes":  2880,
+                      "SHA256":  "20DC14CD20252DC1396441627AA774ACF24CBE86D3C10AE1EEF1B4DCB4BDA8B6"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\10_Bath_WC_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1109,
+                      "SHA256":  "7B5098CCAEE69DACA7E868FE44638D50F5514BC27151908C44AB4B65555270A5"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\10_Bath_WC_Visual_Standard_v3.1.md",
+                      "SizeBytes":  1610,
+                      "SHA256":  "5142C3C5FC6B58BE213C9B3A186C54FED11962263F1D98BA9874E079372487E4"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\11_Corridor_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1047,
+                      "SHA256":  "327067528D8BC1310FE3A65A8443692FE4E9C6BAB08550D1BB028C5294536209"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\11_Corridor_Visual_Standard_v3.1.md",
+                      "SizeBytes":  1436,
+                      "SHA256":  "2BD9DA79A0000F93593764CA1AE3ED4B4EFA2DDFB5D55625B238B2B28E7BC0EE"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\12_Ground_Floor_Interior_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1109,
+                      "SHA256":  "EF28CEBCC259BEAF2195FFE718A1946A4F625908647ACF3B3BF498DC8DC18E7F"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\12_Ground_Floor_Interior_Visual_Standard_v3.1.md",
+                      "SizeBytes":  2864,
+                      "SHA256":  "3E8EF82EFC89EEDB64FFD8B499D6F6FA99B9FA7452BB66B08DEAB7C52A11BF82"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\13_Roof_Visual_Development_Guide_v3.0.md",
+                      "SizeBytes":  1360,
+                      "SHA256":  "DEBC6E95CA48D563E41A66984CF58BC20424830FBA721C382C90D5D94AC5DFED"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\13_Roof_Visual_Development_Guide_v3.1.md",
+                      "SizeBytes":  1918,
+                      "SHA256":  "7CF974AE055D3677D9774ED9F63112C7A11A863A58EAA2C001EB39343FF64478"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_First_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  170457,
+                      "SHA256":  "88CC9D40F5E49BDD6415A61A25AF13B7208C419EC09E205053D7470047C2A15D"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Ground_Floor_Visual_Development_Overlay_v3.0.pdf",
+                      "SizeBytes":  249819,
+                      "SHA256":  "97C64D1E044E4EEE09BEC6C247E6747732225C8FE5CA1C5A373BD1926866B54D"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Roof_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  200679,
+                      "SHA256":  "0C0368117CE00AD792F5F79C27A5B440223788FE43EA775E10E5AE51E3292A0A"
+                  },
+                  {
+                      "RelativePath":  "04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Second_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  258624,
+                      "SHA256":  "B0B5402A15546A926E101A5DFBFCCD3B4158DE6B551E103828318CAC1266DCAD"
+                  },
+                  {
+                      "RelativePath":  "99_Verification\\AKK_v3.1_RC_SHA256SUMS_2026-08-11.txt",
+                      "SizeBytes":  4635,
+                      "SHA256":  "7E8FD44086795958B673E46DA2E8AD58ED66CDAB3FA9ECFC659BFD081C0B17D9"
+                  },
+                  {
+                      "RelativePath":  "99_Verification\\AKK_v3.1_RC_Verification_Register.md",
+                      "SizeBytes":  749,
+                      "SHA256":  "D50C39B7403F1C9F7BCB20D766DEB30B80C6F676D9ED7D68E87AE6C9C4669695"
+                  },
+                  {
+                      "RelativePath":  "99_Verification\\AKK_v3.1_RC_ZERO_BASE_AUDIT_2026-08-11.md",
+                      "SizeBytes":  1922,
+                      "SHA256":  "2AEE08D64B55A3219A5E4CBFB2092D98110E7E24953873CCC23A172CF1606C32"
+                  },
+                  {
+                      "RelativePath":  "99_Verification\\AKK_v3.1_READ_ONLY_FREEZE_2026-08-11.md",
+                      "SizeBytes":  1416,
+                      "SHA256":  "B2DCB83FFFD04EB1AAD44A4BA8557DB6DE03C5363F4384579E4E643FA76AC3AB"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\AKK_Interior_Visual_Development_Master_v3.1_WORKING.md",
+                      "SizeBytes":  14679,
+                      "SHA256":  "FDFCD62A4AEA57679DF4D8E06600299E210EBFE2BEB95091C81678D4A1E6A043"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\README.md",
+                      "SizeBytes":  1884,
+                      "SHA256":  "18BD25E74DA3416BAEA9CB0221450C8C28A5B6C4EDE06936B3C4C2B121BFB028"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\00_Project_Control\\Asset_Index.md",
+                      "SizeBytes":  3030,
+                      "SHA256":  "DE0B0B95F19049698406BB0BA52838E7C4394D3BA0AD8EA676FDB9499E39A8E2"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\00_Project_Control\\CHANGELOG_v3.1_RC.md",
+                      "SizeBytes":  1600,
+                      "SHA256":  "07AC0AACDEF53D032E2C843DF40F546F74A1C776FF7CED88C6C19D48394F8D69"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\00_Project_Control\\README.md",
+                      "SizeBytes":  1700,
+                      "SHA256":  "4A5E68FA1C195BF52E47F05D58F58C083A789C7D938D1731954F11F60B9B52AA"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\AKK_Master_Baseline_v3.0.md",
+                      "SizeBytes":  9681,
+                      "SHA256":  "03579C47762346932DBEB8033DA8167A04943A34AF29CADB1D220915F2DFF73A"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\AKK_MASTER_SOURCE_OF_TRUTH_v3.0.md",
+                      "SizeBytes":  7241,
+                      "SHA256":  "2F079DF414201BA802BD575EBF31639F19D7E3A375A5D4C7EF5208659EECC67E"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_First_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  93942,
+                      "SHA256":  "2751A43AF3A07750679BAC5B0697194F12507EDABA9EE5BF1CE04C3AE06DF92B"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Ground_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  93769,
+                      "SHA256":  "C8E4EBC3E97C39108D0E50F54087CEE06B56EDB0DD6051033C1723B1DEBA3386"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Roof_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  91643,
+                      "SHA256":  "E7386014EA9E3518096CDBDBA9286251D8C5595CECF88E9843A5694929A5D514"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Engineer_Drawings_v3.0\\AKK_Second_Floor_Engineer_Drawing_2026-08-10.pdf",
+                      "SizeBytes":  165772,
+                      "SHA256":  "5CD342D28A3C3D2F28D6565B457262D857A28985271DE95AD284C91A8D4D1304"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_First_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  170457,
+                      "SHA256":  "88CC9D40F5E49BDD6415A61A25AF13B7208C419EC09E205053D7470047C2A15D"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Ground_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  249819,
+                      "SHA256":  "97C64D1E044E4EEE09BEC6C247E6747732225C8FE5CA1C5A373BD1926866B54D"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Roof_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  200679,
+                      "SHA256":  "0C0368117CE00AD792F5F79C27A5B440223788FE43EA775E10E5AE51E3292A0A"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\01_Master_Baseline\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Second_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  258624,
+                      "SHA256":  "B0B5402A15546A926E101A5DFBFCCD3B4158DE6B551E103828318CAC1266DCAD"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\02_Client_Proposal\\AKK_Client_Proposal_v3.0_Master.md",
+                      "SizeBytes":  3856,
+                      "SHA256":  "62BAF7DA10338603F4342678A38A67BCF31D5687A9BB596DA7735AC505129021"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\AKK_Interior_Visual_Development_Master_v3.0_LOCKED.md",
+                      "SizeBytes":  9150,
+                      "SHA256":  "FA0E1B381B79D2ED8839644BF1DEFB016D26062142764163D9CD7950641BC566"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\AKK_Interior_Visual_Development_Master_v3.1_WORKING.md",
+                      "SizeBytes":  14954,
+                      "SHA256":  "6D0B5F9E28895739FCA8F35CDAC57A3B001F29141219C3CB8BC6DF4EBCBF827B"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\01_CAD_Visual_Reference_v3.0.md",
+                      "SizeBytes":  1702,
+                      "SHA256":  "ABEB91AB4494395F8EBED3A21A26260DE7B5A8D75577F4EBF39D4088C289DA8B"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\01_CAD_Visual_Reference_v3.1.md",
+                      "SizeBytes":  1717,
+                      "SHA256":  "6A8CB1C377DFFDA4CC465FF9B51AE30A793490D275783963E2671CCCB39B4EA0"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\02_MEP_Visual_Coordination_v3.0.md",
+                      "SizeBytes":  1422,
+                      "SHA256":  "F9A19304E93F63E2168BD444D9AAD5724F69DF2604A8470B0CBA8D753E431F9B"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\02_MEP_Visual_Coordination_v3.1.md",
+                      "SizeBytes":  1700,
+                      "SHA256":  "DC7D2169807DD31517C7B8FF6400BA7FD65B0606D22C44F1E02FE0AC3B07A809"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\03_Pod_Room_Layout_v3.0.md",
+                      "SizeBytes":  1294,
+                      "SHA256":  "45049403613EA5D5114A7F284B43EB4FA6DD1CE6A4B9169F062A70C2B34352F9"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\03_Pod_Room_Layout_v3.1.md",
+                      "SizeBytes":  1580,
+                      "SHA256":  "1689B84B138410D330BE676C18ED22BA110345F4E235DA0574A05A8CFA1E6360"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\04_FF\u0026E_Reference_v3.0.md",
+                      "SizeBytes":  1199,
+                      "SHA256":  "D14EA5B757DA615E0B72D6F48A69C110BFFA10F85275DD248F9988F5AFE33139"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\04_FF\u0026E_Reference_v3.1.md",
+                      "SizeBytes":  2927,
+                      "SHA256":  "FE7D38D978551FDABCCEEEAB74B6E669517BA4C9EA8706BC12C437D163400576"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\05_Material_Palette_v3.0.md",
+                      "SizeBytes":  1100,
+                      "SHA256":  "217C25ECD1A9E1155D6C2E002308F621C4F83C8AE0B51FB09FCC3FC719932136"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\05_Material_Palette_v3.1.md",
+                      "SizeBytes":  2690,
+                      "SHA256":  "A699359E36240078E09F3A03B0D97FBC25406859DE48B1A617E1E4F46A4835D9"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\06_Lighting_Visual_Strategy_v3.0.md",
+                      "SizeBytes":  1098,
+                      "SHA256":  "5078F20F011AC4CD9057085785E7A4562EEBBED17715679DC05619034F77CA8C"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\06_Lighting_Visual_Strategy_v3.1.md",
+                      "SizeBytes":  1487,
+                      "SHA256":  "EC11F1B6DBBEB2A40BFEB9080C05B8D01D12D93BA4740016AE495A47C5F0E66A"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\07_Color_System_v3.0.md",
+                      "SizeBytes":  939,
+                      "SHA256":  "B3793E0B9526AA558D891539142D7340EDE76BA66A869B24A7FA245D0AE2F9E0"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\07_Color_System_v3.1.md",
+                      "SizeBytes":  1358,
+                      "SHA256":  "C6AFCBC4C725A42C32F6F126BA8F77BE263F05A75CFE79791D905B4A76340FA7"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\08_Wayfinding_System_v3.0.md",
+                      "SizeBytes":  1107,
+                      "SHA256":  "20D97D8536C53C9A38805168FF297C211380D878BDC6E7D9D520E973BE863C9F"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\08_Wayfinding_System_v3.1.md",
+                      "SizeBytes":  1390,
+                      "SHA256":  "B65D6396758FFBD12AC59A023FFC3ACD2F2322CC747F8DE8C7D107CB4C7D6B31"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\09_Pod_Room_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1091,
+                      "SHA256":  "63B4D8811623774B8AC4BEF321FD9096AEF3BB2B81AD5B81C0BC6F793A9FDB57"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\09_Pod_Room_Visual_Standard_v3.1.md",
+                      "SizeBytes":  2880,
+                      "SHA256":  "20DC14CD20252DC1396441627AA774ACF24CBE86D3C10AE1EEF1B4DCB4BDA8B6"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\10_Bath_WC_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1109,
+                      "SHA256":  "7B5098CCAEE69DACA7E868FE44638D50F5514BC27151908C44AB4B65555270A5"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\10_Bath_WC_Visual_Standard_v3.1.md",
+                      "SizeBytes":  1610,
+                      "SHA256":  "5142C3C5FC6B58BE213C9B3A186C54FED11962263F1D98BA9874E079372487E4"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\11_Corridor_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1047,
+                      "SHA256":  "327067528D8BC1310FE3A65A8443692FE4E9C6BAB08550D1BB028C5294536209"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\11_Corridor_Visual_Standard_v3.1.md",
+                      "SizeBytes":  1436,
+                      "SHA256":  "2BD9DA79A0000F93593764CA1AE3ED4B4EFA2DDFB5D55625B238B2B28E7BC0EE"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\12_Ground_Floor_Interior_Visual_Standard_v3.0.md",
+                      "SizeBytes":  1109,
+                      "SHA256":  "EF28CEBCC259BEAF2195FFE718A1946A4F625908647ACF3B3BF498DC8DC18E7F"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\12_Ground_Floor_Interior_Visual_Standard_v3.1.md",
+                      "SizeBytes":  2864,
+                      "SHA256":  "3E8EF82EFC89EEDB64FFD8B499D6F6FA99B9FA7452BB66B08DEAB7C52A11BF82"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\13_Roof_Visual_Development_Guide_v3.0.md",
+                      "SizeBytes":  1360,
+                      "SHA256":  "DEBC6E95CA48D563E41A66984CF58BC20424830FBA721C382C90D5D94AC5DFED"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Clean_Visual_Development_Set_v3.1\\13_Roof_Visual_Development_Guide_v3.1.md",
+                      "SizeBytes":  1918,
+                      "SHA256":  "7CF974AE055D3677D9774ED9F63112C7A11A863A58EAA2C001EB39343FF64478"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_First_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  170457,
+                      "SHA256":  "88CC9D40F5E49BDD6415A61A25AF13B7208C419EC09E205053D7470047C2A15D"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Ground_Floor_Visual_Development_Overlay_v3.0.pdf",
+                      "SizeBytes":  249819,
+                      "SHA256":  "97C64D1E044E4EEE09BEC6C247E6747732225C8FE5CA1C5A373BD1926866B54D"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Roof_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  200679,
+                      "SHA256":  "0C0368117CE00AD792F5F79C27A5B440223788FE43EA775E10E5AE51E3292A0A"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\04_Design_Documentation\\Controlled_Visual_Development_Overlays_v3.0\\AKK_Second_Floor_Visual_Development_Overlay_v3.0_2026-08-10.pdf",
+                      "SizeBytes":  258624,
+                      "SHA256":  "B0B5402A15546A926E101A5DFBFCCD3B4158DE6B551E103828318CAC1266DCAD"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\99_Verification\\AKK_v3.1_RC_SHA256SUMS_2026-08-11.txt",
+                      "SizeBytes":  4635,
+                      "SHA256":  "7E8FD44086795958B673E46DA2E8AD58ED66CDAB3FA9ECFC659BFD081C0B17D9"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\99_Verification\\AKK_v3.1_RC_Verification_Register.md",
+                      "SizeBytes":  749,
+                      "SHA256":  "D50C39B7403F1C9F7BCB20D766DEB30B80C6F676D9ED7D68E87AE6C9C4669695"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\99_Verification\\AKK_v3.1_RC_ZERO_BASE_AUDIT_2026-08-11.md",
+                      "SizeBytes":  1922,
+                      "SHA256":  "2AEE08D64B55A3219A5E4CBFB2092D98110E7E24953873CCC23A172CF1606C32"
+                  },
+                  {
+                      "RelativePath":  "AKK_Final_Client_Package_v3.1_RELEASE_CANDIDATE\\99_Verification\\AKK_v3.1_READ_ONLY_FREEZE_2026-08-11.md",
+                      "SizeBytes":  1416,
+                      "SHA256":  "B2DCB83FFFD04EB1AAD44A4BA8557DB6DE03C5363F4384579E4E643FA76AC3AB"
+                  }
+              ]
+}

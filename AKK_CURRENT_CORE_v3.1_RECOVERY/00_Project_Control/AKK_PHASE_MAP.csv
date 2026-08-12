@@ -1,0 +1,16 @@
+﻿Phase,Source,Status,PhaseName,DomainName,ResponsibleRole,Description
+Phase_01,00_Project_Control\README.md,PASSED,Phase_01,Project_Start_Control,Master_Architect,Project Start Control
+Phase_02,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_02,Master_Baseline_Geometry,Master_Architect,Master Baseline Geometry
+Phase_03,01_Master_Baseline\AKK_MASTER_SOURCE_OF_TRUTH_v3.0.md,PASSED,Phase_03,Visual_Development_Overlay,Visual_Lead,Visual Overlay
+Phase_04,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_04,Concept_Presentation_Packages,Design_Team,Concept Design
+Phase_05,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_05,Concept_Presentation_Packages,Design_Team,Concept Presentation
+Phase_06,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_06,Concept_Presentation_Packages,Design_Team,Schematic Design
+Phase_07,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_07,Concept_Presentation_Packages,Design_Team,Design Development
+Phase_08,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_08,Concept_Presentation_Packages,Design_Team,Detailed Design
+Phase_09,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_09,Concept_Presentation_Packages,Design_Team,Client Approval
+Phase_10,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_10,Concept_Presentation_Packages,Design_Team,Package Freeze
+Phase_11,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_11,Concept_Presentation_Packages,Design_Team,Handover Package
+Phase_12,01_Master_Baseline\AKK_Master_Baseline_v3.0.md,PASSED,Phase_12,Architecture_And_Structure,Lead_Engineer,Architecture & Structure
+Phase_13,00_Project_Control\README.md,PASSED,Phase_13,Fire_Egress_Accessibility,Safety_Engineer,Fire & Safety
+Phase_14,00_Project_Control\CHANGELOG_v3.1_RC.md,PASSED,Phase_14,MEP_Coordinated_Services,MEP_Engineer,MEP Services
+Phase_15,00_Project_Control\Asset_Index.md,PASSED,Phase_15,Roof_FFE_Construction_Release,Construction_Gate,Construction Release Gate
